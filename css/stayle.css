@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box; 
+    list-style: none;
+}
+body{
+    min-width: 1000px;
+}
+
+.menu-nav-link{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    text-decoration:none;
+    margin-left: 40px;
+}
+
+
+.header-block{
+    background: url(../img/fon.png) no-repeat center/cover;
+    padding-left:177px;
+    padding-bottom: 91px;
+    padding-top: 124px;
+    border-radius: 50px;
+}
+
+.header-text{
+    position: relative;
+   
+}
+
+.honey{
+    position: absolute;
+}
+.header-text h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 130px;
+color: #0B0B0B;
+}
+
+.logo-1{
+  margin-left:80px;  
+}
+
+.btn{
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 160%;
+border: 2px solid #000000;
+outline: none;
+}
+.btn:hover{
+    background: #000000;
+    color: aliceblue;
+}
+
+h3{
+    font-size: 45px;
+    color: #000000;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+.Group65{
+    width: 100%;
+    margin-top: 131px;
+}
+.group h3{
+    font-size: 45px;
+    color: #000000;
+}
+
+.group p{
+    font-size: 22px;
+    color: #000000;
+}
+.group button{
+display: flex;
+align-items: flex-start;
+padding: 15px 40px;
+margin-top: 30px;
+background: #E68311;
+position: absolute;
+color: #FFFFFF;
+border: none;
+}
+.Group66{
+    width: 100%;
+    margin-top: 101px;
+}
+.group1 h3{
+    font-size: 45px;
+    color: #000000;
+}
+
+.group1 p{
+    font-size: 22px;
+    color: #000000;
+}
+.group1 button{
+display: flex;
+align-items: flex-start;
+padding: 15px 40px;
+margin-top: 30px;
+background: #E68311;
+position: absolute;
+color: #FFFFFF;
+border: none;
+}
+
+.section-block h1{
+    color: #000000da;
+    font-size: 45px;
+  
+}
+.block-color{
+    display: flex;
+    align-items: flex-start;
+    padding: 15px 40px;
+    margin-top: 30px;
+    background: rgba(229, 130, 17, 0.479); 
+    color: #FFFFFF;
+    margin-bottom: 130px;
+}
+.block-color button{
+    display: flex;
+align-items: flex-start;
+padding: 10px 40px;
+margin-top: 5px;
+background: rgba(230, 131, 17, 0.253);
+position: absolute;
+color: #FFFFFF;
+
+}
+.block-color button:hover{
+   color: #E58211;
+   background: #000000;
+   transition: 0.5s;
+}
+
+
+
+
+.container .loo8{
+   width: 100%;
+   display: flex;
+   justify-content: flex-end;
+   font-size: 18px;
+   color: #E58211;
+}
+.footer-block{
+    background: #E58211;
+    padding: 45px 0; 
+}
+.footer-block ul{
+ display: flex;
+ justify-content: space-between;
+}
+.footer-block ul li a{
+    color: #000000;
+    
+}
+
+
+
+
+
